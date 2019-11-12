@@ -43,7 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BadStudents.cs" />
     <Compile Include="Discpline.cs" />
+    <Compile Include="GoodStudents.cs" />
     <Compile Include="IComments.cs" />
     <Compile Include="Person.cs" />
     <Compile Include="Program.cs" />

@@ -18,7 +18,7 @@
   <Class Name="SchoolManagement.Teacher">
     <Position X="1.75" Y="4.5" Width="2.25" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Student.cs</FileName>
     </TypeIdentifier>
   </Class>

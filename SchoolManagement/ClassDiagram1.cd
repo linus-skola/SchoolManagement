@@ -37,7 +37,7 @@
     </TypeIdentifier>
   </Class>
   <Class Name="SchoolManagement.Discipline">
-    <Position X="1.75" Y="6.25" Width="2.25" />
+    <Position X="3.5" Y="6" Width="2.25" />
     <TypeIdentifier>
       <HashCode>AAAAAEAAAAAAAAAAAAFAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Discipline.cs</FileName>

@@ -16,6 +16,7 @@ namespace SchoolManagement
 
     public class Teacher : Person
     {
+        private int Discipline;
     }
 
     

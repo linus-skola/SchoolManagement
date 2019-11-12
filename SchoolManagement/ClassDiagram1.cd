@@ -39,7 +39,7 @@
   <Class Name="SchoolManagement.Discipline">
     <Position X="1.75" Y="6.25" Width="2.25" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AAAAAEAAAAAAAAAAAAFAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Discipline.cs</FileName>
     </TypeIdentifier>
   </Class>

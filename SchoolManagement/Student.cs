@@ -7,6 +7,14 @@ namespace SchoolManagement
 {
     public class Student : Person, IComments
     {
+        public int StudentID
+        {
+            get => default;
+            set
+            {
+            }
+        }
+
         public void Comment(string comment)
         {
             throw new NotImplementedException();

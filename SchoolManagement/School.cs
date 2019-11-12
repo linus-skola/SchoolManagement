@@ -7,6 +7,7 @@ namespace SchoolManagement
 {
     public class School
     {
+        // Dans på rosor.
         public int SchoolClasses
         {
             get => default;

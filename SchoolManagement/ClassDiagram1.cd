@@ -36,13 +36,6 @@
       <FileName>School.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="SchoolManagement.Discipline">
-    <Position X="3.5" Y="6" Width="2.25" />
-    <TypeIdentifier>
-      <HashCode>AAAAAEAAAAAAAAAAAAFAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
-      <FileName>Discipline.cs</FileName>
-    </TypeIdentifier>
-  </Class>
   <Interface Name="SchoolManagement.IComments">
     <Position X="0.75" Y="1.25" Width="1.5" />
     <TypeIdentifier>

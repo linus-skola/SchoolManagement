@@ -43,20 +43,6 @@
       <FileName>Discpline.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="SchoolManagement.GoodStudents">
-    <Position X="5.75" Y="7" Width="1.5" />
-    <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
-      <FileName>GoodStudents.cs</FileName>
-    </TypeIdentifier>
-  </Class>
-  <Class Name="SchoolManagement.BadStudents">
-    <Position X="8.75" Y="7" Width="1.5" />
-    <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
-      <FileName>BadStudents.cs</FileName>
-    </TypeIdentifier>
-  </Class>
   <Interface Name="SchoolManagement.IComments">
     <Position X="0.75" Y="1.25" Width="1.5" />
     <TypeIdentifier>

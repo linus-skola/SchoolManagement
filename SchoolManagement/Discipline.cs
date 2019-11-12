@@ -5,10 +5,4 @@ using System.Text;
 
 namespace SchoolManagement
 {
-    public class Discipline
-    {
-        private int lectures;
-        private int exercises;
-        private int subject;
-    }
 }

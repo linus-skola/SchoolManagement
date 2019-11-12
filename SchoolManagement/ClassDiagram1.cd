@@ -39,7 +39,7 @@
   <Class Name="SchoolManagement.Discpline">
     <Position X="4.5" Y="5.75" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AAAAAAAAAAAAAUAAAAAAAACAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Discpline.cs</FileName>
     </TypeIdentifier>
   </Class>

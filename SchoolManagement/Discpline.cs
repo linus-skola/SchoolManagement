@@ -7,5 +7,8 @@ namespace SchoolManagement
 {
     public class Discpline
     {
+        private int lectures;
+        private int exercises;
+        private int subject;
     }
 }

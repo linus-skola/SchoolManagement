@@ -10,6 +10,8 @@ namespace SchoolManagement
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hej");
+            Console.ReadKey();
         }
     }
 }
